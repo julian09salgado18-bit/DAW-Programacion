@@ -1,4 +1,4 @@
-//package ejercicios.ud02_introduccion_a_java;
+package ejercicios.ud02_introduccion_a_java;
 
 /**
  * Ejercicio 1 - Strings en JAVA
